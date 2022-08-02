@@ -1,0 +1,14 @@
+{
+  "name": "appli-init",
+  "version": "1.0.0",
+  "description": "application-gestion-de-tache",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ZINGA-Clenn-Jovane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
